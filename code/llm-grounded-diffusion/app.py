@@ -289,4 +289,4 @@ with gr.Blocks(
             cache_examples=True
         )
 
-g.launch()
+g.launch(share=True)
